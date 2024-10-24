@@ -10,5 +10,5 @@ console.log(myGreeting);
 // Const Variable
 const pi = 3.14;
 // pi = 2; // throws an error
-myNumber = "5"
+let myNumber = "5"
 console.log(Math.min(pi, myNumber)); // It Chooses the smaller number
